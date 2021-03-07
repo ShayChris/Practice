@@ -9,6 +9,8 @@
 [简述乐观锁以及悲观锁的区别以及使用场景](Database/2021-3-5.md)
 ### 2021-3-6
 [什么情况下会发生死锁，如何解决死锁？](Database/2021-3-6.md)
+### 2021-3-7
+[Redis 有几种数据结构？Zset 是如何实现的？](Database/2021-3-7.md)
 ## Algorithm
 ### 2021-3-2
 [最大子序和（Leetcode）](Algorithm/2021-3-2.md)  
@@ -20,3 +22,5 @@
 [合并两个有序链表 (Leetcode)](Algorithm/2021-3-5.md)
 ### 2021-3-6
 [用 Rand7() 实现 Rand10() (Leetcode)](Algorithm/2021-3-6.md)
+### 2021-3-7
+[AVL 树和红黑树有什么区别？](Algorithm/2021-3-7.md)
