@@ -11,6 +11,8 @@
 [什么情况下会发生死锁，如何解决死锁？](Database/2021-3-6.md)
 ### 2021-3-7
 [Redis 有几种数据结构？Zset 是如何实现的？](Database/2021-3-7.md)
+### 2021-3-8
+[简述脏读和幻读的发生场景，InnoDB 是如何解决幻读的？？](Database/2021-3-8.md)
 ## Algorithm
 ### 2021-3-2
 [最大子序和（Leetcode）](Algorithm/2021-3-2.md)  
@@ -24,3 +26,5 @@
 [用 Rand7() 实现 Rand10() (Leetcode)](Algorithm/2021-3-6.md)
 ### 2021-3-7
 [AVL 树和红黑树有什么区别？](Algorithm/2021-3-7.md)
+### 2021-3-8
+[实现快速排序](Algorithm/2021-3-8.md)
