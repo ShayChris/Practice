@@ -74,3 +74,6 @@
 [寻找旋转排序数组中的最小值 (Leetcode)](Algorithm/2021-3-20-2.md)
 ### 2021-3-21
 [链表的中间结点 (Leetcode)](Algorithm/2021-3-21.md)
+### 2021-3-22
+[除自身以外数组的乘积 (Leetcode)](Algorithm/2021-3-22-1.md)
+[2的幂 (Leetcode)](Algorithm/2021-3-22-2.md)
