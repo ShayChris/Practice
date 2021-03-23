@@ -78,5 +78,5 @@
 [除自身以外数组的乘积 (Leetcode)](Algorithm/2021-3-22-1.md)  
 [2的幂 (Leetcode)](Algorithm/2021-3-22-2.md)
 ### 2021-3-23
-[吃掉 N 个橘子的最少天数 (Leetcode)](Algorithm/2021-3-22-1.md)  
-[目标和(Leetcode)](Algorithm/2021-3-22-2.md)
+[吃掉 N 个橘子的最少天数 (Leetcode)](Algorithm/2021-3-23-1.md)  
+[目标和(Leetcode)](Algorithm/2021-3-232-2.md)
