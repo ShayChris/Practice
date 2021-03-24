@@ -80,3 +80,7 @@
 ### 2021-3-23
 [吃掉 N 个橘子的最少天数 (Leetcode)](Algorithm/2021-3-23-1.md)  
 [目标和(Leetcode)](Algorithm/2021-3-232-2.md)
+## Java
+### 2021-3-24
+[HashMap 与 ConcurrentHashMap 的实现原理是怎样的？ConcurrentHashMap 是如何保证线程安全的？](Java/2021-3-24-1.md)  
+[volatile 关键字解决了什么问题，它的实现原理是什么？](Java/2021-3-24-2.md)
