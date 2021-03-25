@@ -84,3 +84,6 @@
 ### 2021-3-24
 [HashMap 与 ConcurrentHashMap 的实现原理是怎样的？ConcurrentHashMap 是如何保证线程安全的？](Java/2021-3-24-1.md)  
 [volatile 关键字解决了什么问题，它的实现原理是什么？](Java/2021-3-24-2.md)
+### 2021-3-25
+[synchronized 关键字底层是如何实现的？它与 Lock 相比优缺点分别是什么？](Java/2021-3-25-1.md)  
+[Java 中垃圾回收机制中如何判断对象需要回收？常见的 GC 回收算法有哪些？](Java/2021-3-25-2.md)
